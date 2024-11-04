@@ -5,10 +5,10 @@ html,body {
     width: 100%;
     height: 100%;
     background-color: #333333;
-    color:--code-white;
+    color:var(--code-white);
 }
 ul{
-    background-color:--code-black;
+    background-color: var(--code-black);
 }
 ._smlDrawerHeader_130l5_95{
     background-color:#03030300;
@@ -30,13 +30,13 @@ ul{
     background-color: #333333;
 }
 .h1,h2,h3,h4,h5,h6,.ant-form{
-    color:--code-white;
+    color:var(--code-white);
 }
 ._smlBaseCardSecondaryActionsMenu_7n2w0_31{
     opacity:40%;
 }
 ._navLink_13anu_1,.ant-radio-wrapper,.ant-checkbox-wrapper{
-    color:--code-white;
+    color:var(--code-white);
 }
 ._smlCourseCardHeader_nrmhi_1 ._statusWrapper_nrmhi_5{
     background-color: #000000bd;
@@ -54,22 +54,22 @@ ul{
     background-color: #2f2f2f;
 }
 ._smlBaseCard_7n2w0_1:hover{
-    background-color: --code-black;
+    background-color: var(--code-black);
 }
 ._smlDrawerHeader_121t3_95{
     background: var(--sml-accent-2-100)!important;
 }
 .ant-tabs-card>.ant-tabs-nav .ant-tabs-tab, .ant-tabs-card>div>.ant-tabs-nav .ant-tabs-tab{
     background: var(--sml-accent-2-100)!important;
-    color:--code-white;
+    color:var(--code-white);
     
 }
 ._smlSyllabusTreeItem_numuw_1,.ant-collapse-content{
     background: var(--sml-accent-2-100)!important;
-    color:--code-white;
+    color:var(--code-white);
 }
 .ant-btn-text{
-    color:--code-white;
+    color:var(--code-white);
 }
 .ant-btn-link{
     background:transparent !important;
@@ -82,15 +82,15 @@ ul{
 }
 .ant-card-head{
     background: var(--sml-accent-2-100)!important;
-    color:--code-white;
+    color:var(--code-white);
 }
 .ant-card-body,.ant-btn{
     background: var(--sml-accent-2-100)!important;
-    color:--code-white; 
+    color:var(--code-white); 
 }
 .ant-collapse{
     background: var(--sml-accent-2-100)!important;
-    color:--code-white;   
+    color:var(--code-white);   
 }
 ._smlSyllabusTreeItem__expandColapseButton_numuw_63{
     background: var(--sml-accent-2-100)!important;
@@ -108,16 +108,16 @@ h1, h2, h3, h4, h5, h6 {
      background: var(--sml-accent-2-100)!important;
 }
 .answer-text-wrapper{
-    color:--code-black;
+    color:var(--code-black);
 }
 :root {
     --sml-background: #333333;
-    --sml-text-dark-high: --code-white;
-    --sml-accent-2-100: black;
-    --sml-text-dark-medium: --code-white;
+    --sml-text-dark-high:var(--code-white);
+    --sml-border-color-1:var(--sml-primary-400);
+    --sml-text-dark-medium:var(--code-white);
     --sml-accent-1-100: #dc7728; 
     --sml-primary-400: #096dd7;
-    --sml-border-color-1:var(--sml-primary-400);
+    --sml-accent-2-100: black;
     --code-black:black;
     --code-white:white;
     animation: rainbow 1800s linear infinite; 

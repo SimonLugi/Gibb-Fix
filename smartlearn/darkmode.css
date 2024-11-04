@@ -8,7 +8,7 @@ html,body {
     color:white;
 }
 ul{
-    background-color:black;
+    background-color:--code-black;
 }
 ._smlDrawerHeader_130l5_95{
     background-color:#03030300;
@@ -54,7 +54,7 @@ ul{
     background-color: #2f2f2f;
 }
 ._smlBaseCard_7n2w0_1:hover{
-    background-color: black;
+    background-color: --code-black;
 }
 ._smlDrawerHeader_121t3_95{
     background: var(--sml-accent-2-100)!important;
@@ -108,7 +108,7 @@ h1, h2, h3, h4, h5, h6 {
      background: var(--sml-accent-2-100)!important;
 }
 .answer-text-wrapper{
-    color:black;
+    color:--code-black;
 }
 :root {
     --sml-background: #333333;
@@ -118,6 +118,7 @@ h1, h2, h3, h4, h5, h6 {
     --sml-accent-1-100: #dc7728; 
     --sml-primary-400: #096dd7;
     --sml-border-color-1:var(--sml-primary-400);
+    --code-black:black;
     animation: rainbow 1800s linear infinite; 
 
 }

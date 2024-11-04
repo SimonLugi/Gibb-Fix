@@ -4,7 +4,7 @@
 html,body {
     width: 100%;
     height: 100%;
-    background-color: #333333;
+    background-color: var(--background);
     color:var(--code-white);
 }
 ul{
@@ -27,7 +27,7 @@ ul{
 }
 ._header_1q5db_1 {
     color:white;
-    background-color: #333333;
+    background-color: var(--background);
 }
 .h1,h2,h3,h4,h5,h6,.ant-form{
     color:var(--code-white);
@@ -111,7 +111,7 @@ h1, h2, h3, h4, h5, h6 {
     color:var(--code-black);
 }
 :root {
-    --sml-background: #333333;
+    --sml-background: var(--background);
     --sml-text-dark-high:var(--code-white);
     --sml-border-color-1:var(--sml-primary-400);
     --sml-text-dark-medium:var(--code-white);
@@ -120,6 +120,7 @@ h1, h2, h3, h4, h5, h6 {
     --sml-accent-2-100: black;
     --code-black:black;
     --code-white:white;
+    --background:#333333;
     animation: rainbow 1800s linear infinite; 
 
 }

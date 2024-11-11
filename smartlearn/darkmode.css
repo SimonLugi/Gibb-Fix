@@ -29,6 +29,9 @@ ul{
     color:white;
     background-color: var(--background);
 }
+._smlSelectButton_v86hy_22{
+    background-color: var(--background);
+}
 .h1,h2,h3,h4,h5,h6,.ant-form{
     color:var(--code-white);
 }

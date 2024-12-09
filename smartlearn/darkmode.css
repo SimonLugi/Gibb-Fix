@@ -127,7 +127,7 @@ h1, h2, h3, h4, h5, h6 {
     --code-black:black;
     --code-white:white;
     --background:#333333;
-    animation: rainbow 1800s linear infinite; 
+    animation: rainbow 45s linear infinite; 
 
 }
 

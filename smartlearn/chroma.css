@@ -1,30 +1,30 @@
 @keyframes rainbow {
-    0% { --sml-primary-400: #FF0000; }      /* Red */
-    4% { --sml-primary-400: #FF4500; }      /* OrangeRed */
-    8% { --sml-primary-400: #FF8C00; }      /* DarkOrange */
-    12% { --sml-primary-400: #FFD700; }     /* Gold */
-    16% { --sml-primary-400: #FFFF00; }     /* Yellow */
-    20% { --sml-primary-400: #ADFF2F; }     /* GreenYellow */
-    24% { --sml-primary-400: #00FF00; }     /* Lime */
-    28% { --sml-primary-400: #00FFFF; }     /* Aqua */
-    32% { --sml-primary-400: #00CED1; }     /* DarkTurquoise (brighter cyan) */
-    36% { --sml-primary-400: #1E90FF; }     /* DodgerBlue */
-    40% { --sml-primary-400: #8A2BE2; }     /* BlueViolet */
-    44% { --sml-primary-400: #EE82EE; }     /* Violet */
-    48% { --sml-primary-400: #FF1493; }     /* DeepPink */
-    52% { --sml-primary-400: #FF00FF; }     /* Fuchsia */
-    56% { --sml-primary-400: #DA70D6; }     /* Orchid */
-    60% { --sml-primary-400: #9370DB; }     /* MediumPurple */
-    64% { --sml-primary-400: #4B0082; }     /* Indigo */
-    68% { --sml-primary-400: #483D8B; }     /* DarkSlateBlue */
-    72% { --sml-primary-400: #00BFFF; }     /* DeepSkyBlue */
-    76% { --sml-primary-400: #00FFFF; }     /* Cyan */
-    80% { --sml-primary-400: #40E0D0; }     /* Turquoise */
-    84% { --sml-primary-400: #7FFFD4; }     /* Aquamarine */
-    88% { --sml-primary-400: #ADFF2F; }     /* GreenYellow */
-    92% { --sml-primary-400: #FFD700; }     /* Gold */
-    96% { --sml-primary-400: #FF8C00; }     /* DarkOrange */
-    100% { --sml-primary-400: #FF4500; }    /* OrangeRed */
+    0% { --sml-primary-400: #0000FF; }      /* Deep Blue */
+    4% { --sml-primary-400: #0014FF; }      /* Slightly Lighter Blue */
+    8% { --sml-primary-400: #0028FF; }      /* Lighter Blue */
+    12% { --sml-primary-400: #003CFF; }     /* Brighter Blue */
+    16% { --sml-primary-400: #0050FF; }     /* Transition to Cyan */
+    20% { --sml-primary-400: #0078FF; }     /* Blue-Cyan Mix */
+    24% { --sml-primary-400: #00A0FF; }     /* Cyanish Blue */
+    28% { --sml-primary-400: #00C8FF; }     /* Cyan */
+    32% { --sml-primary-400: #00FFFF; }     /* Full Cyan */
+    36% { --sml-primary-400: #00FFD4; }     /* Cyan-Green Mix */
+    40% { --sml-primary-400: #00FFAA; }     /* Neon Greenish Cyan */
+    44% { --sml-primary-400: #00FF80; }     /* Brighter Neon Green */
+    48% { --sml-primary-400: #00FF55; }     /* Bright Neon Green */
+    52% { --sml-primary-400: #00FF2A; }     /* Almost Pure Neon Green */
+    56% { --sml-primary-400: #00FF00; }     /* Full Neon Green */
+    60% { --sml-primary-400: #2AFF00; }     /* Greenish Cyan */
+    64% { --sml-primary-400: #55FF00; }     /* Bright Green */
+    68% { --sml-primary-400: #80FF00; }     /* Yellowish Green */
+    72% { --sml-primary-400: #AAFF00; }     /* Green-Yellow Mix */
+    76% { --sml-primary-400: #D4FF00; }     /* Yellowish Neon */
+    80% { --sml-primary-400: #FFFF00; }     /* Bright Yellow */
+    84% { --sml-primary-400: #FFD400; }     /* Yellow-Orange */
+    88% { --sml-primary-400: #FFAA00; }     /* Bright Orange */
+    92% { --sml-primary-400: #FF8000; }     /* Deep Orange */
+    96% { --sml-primary-400: #FF2A00; }     /* Red-Orange */
+    100% { --sml-primary-400: #FF0000; }    /* Red */
 }
 
 

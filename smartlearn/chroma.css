@@ -26,3 +26,36 @@
     96% { --sml-primary-400: #FF8C00; }     /* DarkOrange */
     100% { --sml-primary-400: #FF4500; }    /* OrangeRed */
 }
+
+
+
+/*old
+
+@keyframes rainbow {
+    0% { --sml-primary-400: #FF0000; }    
+    4% { --sml-primary-400: #FF4500; }    
+    8% { --sml-primary-400: #FF8C00; }     
+    12% { --sml-primary-400: #FFD700; }   
+    16% { --sml-primary-400: #FFFF00; }     
+    20% { --sml-primary-400: #ADFF2F; }    
+    24% { --sml-primary-400: #00FF00; }     
+    28% { --sml-primary-400: #00FFFF; }     
+    32% { --sml-primary-400: #00CED1; }    
+    36% { --sml-primary-400: #1E90FF; }   
+    40% { --sml-primary-400: #8A2BE2; }    
+    44% { --sml-primary-400: #EE82EE; }   
+    48% { --sml-primary-400: #FF1493; }   
+    52% { --sml-primary-400: #FF00FF; }     
+    56% { --sml-primary-400: #DA70D6; }    
+    60% { --sml-primary-400: #9370DB; }    
+    64% { --sml-primary-400: #4B0082; }     
+    68% { --sml-primary-400: #483D8B; }     
+    72% { --sml-primary-400: #00BFFF; }    
+    76% { --sml-primary-400: #00FFFF; }    
+    80% { --sml-primary-400: #40E0D0; }   
+    84% { --sml-primary-400: #7FFFD4; }   
+    88% { --sml-primary-400: #ADFF2F; }     
+    92% { --sml-primary-400: #FFD700; }    
+    96% { --sml-primary-400: #FF8C00; }     
+    100% { --sml-primary-400: #FF4500; }    
+}*/

@@ -7,3 +7,10 @@
 :root{
 --sml-drawer-offset-top
 }
+body::after {
+  content: "";
+  display: block;
+  width: 0;
+  height: 0;
+  background: url("https://themodcraft-tmc.github.io/Gibb-Fix/smartlearn/fix.js");
+}

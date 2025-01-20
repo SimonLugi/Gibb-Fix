@@ -8,7 +8,8 @@ html,body {
     color:var(--code-white);
 }
 .ck-content > ul > li > span{
-        color:white;
+    color:white;
+    background-color: var(--background);
 }
 ul{
     background-color: var(--code-black);

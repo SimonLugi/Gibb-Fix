@@ -11,9 +11,6 @@ html,body {
     color:white;
     background-color: var(--background);
 }
-ul{
-    background-color: var(--code-black);
-}
 ._smlDrawerHeader_130l5_95{
     background-color:#03030300;
 }

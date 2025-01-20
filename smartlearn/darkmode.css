@@ -11,6 +11,10 @@ html,body {
     color:white;
     background-color: var(--background);
 }
+.ck-content > p > span{
+    color:white;
+    background-color: var(--background);
+}
 ._smlDrawerHeader_130l5_95{
     background-color:#03030300;
 }

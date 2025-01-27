@@ -149,12 +149,12 @@ h1, h2, h3, h4, h5, h6 {
     --sml-text-dark-high:var(--text);
     --sml-border-color-1:var(--sml-primary-400);
     --sml-text-dark-medium:var(--text);
-    --sml-accent-1-100: var(--accent2); 
+    --sml-accent-1-100: var(--accent); 
     --sml-primary-400: var(--primary);
     --sml-accent-2-100: var(--accent);
     --code-black:black;
-    --dark-acent2:var(--secondary);
-    --dark-acent1:var(--accent);
+    --dark-acent2:var(--accent2);
+    --dark-acent1:var(--secondary);
     --text: #e1e5f8;
     --background: #080a20;
     --primary: #95a6e6;

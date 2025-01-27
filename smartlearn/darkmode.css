@@ -150,7 +150,7 @@ h1, h2, h3, h4, h5, h6 {
     --sml-background: var(--background);
     --sml-text-dark-high:var(--text);
     --sml-border-color-1:var(--sml-primary-400);
-    --sml-text-dark-medium:var(--code-white);
+    --sml-text-dark-medium:var(--text);
     --sml-accent-1-100: var(--accent2); 
     --sml-primary-400: var(--primary);
     --sml-accent-2-100: var(--accent);

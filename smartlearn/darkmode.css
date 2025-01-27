@@ -16,9 +16,7 @@ html,body {
 }
 .ck-editor__editable{
     bordercolor: var(--dark-acent2)!important;
-    border-radius: 5px;
     color:var(--text)!important;
-    background-color: var(--dark-acent1)!important;
 }
 .ck-content .table table th {
     border-radius: 5px;

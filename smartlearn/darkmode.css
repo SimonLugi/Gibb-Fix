@@ -8,6 +8,11 @@ html,body {
     color:var(--code-white);
 }
 
+.ck.ck-editor__main>.ck-editor__editable {
+    background: #0a0a0a!important;
+    border-radius: 5px;
+    color:white!important;
+}
 .ck-editor__editable{
     border-radius: 5px;
     color:white!important;

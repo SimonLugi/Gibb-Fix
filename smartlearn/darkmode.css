@@ -7,6 +7,11 @@ html,body {
     background-color: var(--background);
     color:var(--code-white);
 }
+.ck.ck-editor__main>.ck-editor__editable {
+    background: #000000;
+    border-radius: 5px;
+    color: white;
+}
 .ck-content>.table>table>th{
     color:white!important;
     background-color: var(--background)!important;

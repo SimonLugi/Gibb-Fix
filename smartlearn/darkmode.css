@@ -11,6 +11,9 @@ html,body {
     color:white!important;
     background-color: var(--background)!important;
 }
+._fileUploadItem_1ytru_1:hover{
+    background-color: calc(var(--background))!important;
+}
 .ck-content > p > span{
     color:white!important;
     background-color: var(--background)!important;

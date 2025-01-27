@@ -8,12 +8,12 @@ html,body {
     color:var(--code-white);
 }
 .ck-content > ul > li > span{
-    color:white;
-    background-color: var(--background);
+    color:white!important;
+    background-color: var(--background)!important;
 }
 .ck-content > p > span{
-    color:white;
-    background-color: var(--background);
+    color:white!important;
+    background-color: var(--background)!important;
 }
 ._smlDrawerHeader_130l5_95{
     background-color:#03030300;

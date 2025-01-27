@@ -148,18 +148,20 @@ h1, h2, h3, h4, h5, h6 {
 }
 :root {
     --sml-background: var(--background);
-    --sml-text-dark-high:var(--code-white);
+    --sml-text-dark-high:var(--text);
     --sml-border-color-1:var(--sml-primary-400);
     --sml-text-dark-medium:var(--code-white);
     --sml-accent-1-100: #dc7728; 
-    --sml-primary-400: #096dd7;
-    --sml-accent-2-100: black;
+    --sml-primary-400: var(--primary);
+    --sml-accent-2-100: var(--accent);
     --code-black:black;
-    --code-white:white;
-    --background:#333333;
-    --dark-acent2:#0d1b2a;
-    --dark-acent1:#212529;
-    animation: rainbow 45s linear infinite; 
+    --dark-acent2:var(--secondary);
+    --dark-acent1:var(--accent);
+    --text: #e1e5f8;
+    --background: #080a20;
+    --primary: #95a6e6;
+    --secondary: #331f87;
+    --accent: #864fd6;
 
 }
 

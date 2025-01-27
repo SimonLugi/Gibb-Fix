@@ -6,6 +6,7 @@
 }
 :root{
 --sml-drawer-offset-top
+--dark-Acent:black;
 }
 body::after {
   content: "";

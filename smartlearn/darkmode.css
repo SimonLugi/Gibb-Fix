@@ -9,14 +9,16 @@ html,body {
 }
 
 .ck.ck-editor__main>.ck-editor__editable {
+    bordercolor: var(--dark-acent2)!important;
     background: #0a0a0a!important;
     border-radius: 5px;
     color:white!important;
 }
 .ck-editor__editable{
+    bordercolor: var(--dark-acent2)!important;
     border-radius: 5px;
     color:white!important;
-    background-color: var(--dark-Acent)!important;
+    background-color: var(--dark-acent1)!important;
 }
 .ck-content .table table th {
     border-radius: 5px;
@@ -155,6 +157,8 @@ h1, h2, h3, h4, h5, h6 {
     --code-black:black;
     --code-white:white;
     --background:#333333;
+    --dark-acent2:#0d1b2a;
+    --dark-acent1:#212529;
     animation: rainbow 45s linear infinite; 
 
 }

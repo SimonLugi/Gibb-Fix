@@ -4,6 +4,14 @@
 ._smlSelectOptions_v86hy_72._smlSelectOptionsOpenUpwards_v86hy_91{
     z-index: 15;
 }
+._smlPageHeader_ob56w_1{
+    height:80px;
+}
+._smlPageHeader__header_ob56w_102{
+    margin-left: 100px;
+    width: 87%;
+    z-index:14!important;
+}
 :root{
 --sml-drawer-offset-top
 --dark-Acent:black;

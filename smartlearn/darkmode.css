@@ -12,7 +12,7 @@ html,body {
     border-radius: 5px;
     color: white;
 }
-.ck-content>.table>table>th{
+.table>table>th{
     color:white!important;
     background-color: var(--background)!important;
 } 

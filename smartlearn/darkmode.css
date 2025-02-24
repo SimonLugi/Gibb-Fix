@@ -155,12 +155,12 @@ h1, h2, h3, h4, h5, h6 {
     --code-black:black;
     --dark-acent2:var(--accent2);
     --dark-acent1:var(--secondary);
-    --text: #e1e5f8;
-    --background: #080a20;
-    --primary: #95a6e6;
-    --secondary: #331f87;
-    --accent: #864fd6;
-    --accent2:#f01cd5;
+    --text: #e1ebfa;
+    --background: #01112d;
+    --primary: #5e8ce7;
+    --secondary: #208f0d;
+    --accent: #30f60d;
+    --accent2: #30f60d;
 
 }
 

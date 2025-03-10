@@ -12,6 +12,10 @@
     width: 87%;
     z-index:14!important;
 }
+._smlButton_rwa6g_1 _smlButtonTertiary_rwa6g_58{
+    z-index: 100;
+    top: 100px;
+}
 :root{
 --sml-drawer-offset-top
 --dark-Acent:black;
